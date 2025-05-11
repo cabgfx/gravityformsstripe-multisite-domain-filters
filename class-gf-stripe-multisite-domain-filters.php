@@ -132,7 +132,7 @@ class GF_Stripe_Multisite_Domain_Filters {
      */
     private function log($message) {
         if (defined('WP_DEBUG') && WP_DEBUG === true) {
-            error_log('[GF Stripe Multisite Fix] ' . $message);
+            error_log('[GF Stripe Multisite Domain Filters] ' . $message);
         }
     }
 
