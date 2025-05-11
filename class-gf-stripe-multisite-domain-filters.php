@@ -12,7 +12,7 @@
  * Domain Path: /languages
  * Requires at least: 5.0
  * Requires PHP: 7.2
- * Network: true
+ * Requires Plugins: gravityforms, gravityformsstripe
  */
 
 // Exit if accessed directly
