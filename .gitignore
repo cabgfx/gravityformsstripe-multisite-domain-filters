@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Allow specific files
+!.gitignore
+!class-gf-stripe-multisite-domain-filters.php
+!README.md
