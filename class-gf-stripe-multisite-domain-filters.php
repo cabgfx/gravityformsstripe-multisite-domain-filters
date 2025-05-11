@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Gravity Forms Stripe Multisite Domain Filters
- * Plugin URI: https://github.com/yourusername/gravityformsstripe-multisite-domain-filters
+ * Plugin URI: https://github.com/cabgfx/gravityformsstripe-multisite-domain-filters
  * Description: Fixes domain issues with Gravity Forms Stripe addon in multisite setups
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://yourwebsite.com
+ * Author: Casper Klenz-Kitenge
+ * Author URI: https://cabgfx.com
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: gravityformsstripe-multisite-domain-filters

@@ -62,7 +62,7 @@ This plugin is fully compatible with WordPress multisite installations:
 
 ## Support
 
-For support, please [open an issue](https://github.com/yourusername/gravityformsstripe-multisite-domain-filters/issues) on GitHub.
+For support, please [open an issue](https://github.com/cabgfx/gravityformsstripe-multisite-domain-filters/issues) on GitHub.
 
 ## License
 
@@ -70,4 +70,4 @@ This plugin is licensed under the GPL v2 or later.
 
 ## Credits
 
-Developed by [Your Name](https://yourwebsite.com)
+Developed by [Casper Klenz-Kitenge](https://cabgfx.com) / @cabgfx
